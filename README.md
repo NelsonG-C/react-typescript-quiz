@@ -1,6 +1,6 @@
 ## REACT TYPESCRIPT QUIZ APP
 
-This project was built following along with the following FreeCodeCamp youtube [tutorial:](https://www.youtube.com/watch?v=F2JCjVSZlG0)
+This project was built following along with the following FreeCodeCamp Youtube [tutorial:](https://www.youtube.com/watch?v=F2JCjVSZlG0)
 Completed to develop my Typescript skills, as well as gain experience using Styled Components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
